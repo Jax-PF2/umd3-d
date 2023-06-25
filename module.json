@@ -1,6 +1,6 @@
 {
   "title": "Jam and Jax NPC Index: Undead Templates",
-  "description": "Add these spooky templates to any of the Jam and Jax NPCs or vanilla bestiary creatures to turn them into the Undead.",
+  "description": "Add these spooky templates to any of the Jam and Jax NPCs or vanilla bestiary creatures to turn them into the Undead. Update to directions: Drag in the main template (i.e. Vampire Template) to autopopulate other feats based on creature level.",
   "version": "1.25",
   "packs": [
     {

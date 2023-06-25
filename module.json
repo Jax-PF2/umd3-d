@@ -1,7 +1,7 @@
 {
   "title": "Jam and Jax NPC Index: Undead Templates",
   "description": "Add these spooky templates to any of the Jam and Jax NPCs or vanilla bestiary creatures to turn them into the Undead.",
-  "version": "1.00",
+  "version": "1.25",
   "packs": [
     {
       "label": "Jam and Jax NPC Index: Undead Templates",
@@ -47,14 +47,14 @@
         "id": "pf2e",
         "type": "system",
         "compatibility": {
-          "minimum": "4.3.4",
-          "verified": "4.3.4"
+          "minimum": "4.12.9",
+          "verified": "4.12.9"
         }
       }
     ]
   },
   "compatibility": {
-    "minimum": "10.288",
-    "verified": "10.288"
+    "minimum": "10.291",
+    "verified": "10.291"
   }
 }
